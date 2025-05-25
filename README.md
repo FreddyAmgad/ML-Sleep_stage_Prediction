@@ -1,5 +1,3 @@
-# Machine_Learning-Sleep_stage_Prediction
-
 # Sleep Stage Prediction from Wearable Sensor Data
 
 ## Overview
